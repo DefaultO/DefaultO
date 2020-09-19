@@ -1,5 +1,5 @@
 ## Profiles
-About the Sites | Profile Direct Links
+About | Profile
 ------------ | -------------
 **Unknowncheats is a forum that's topic is all about Hacks, Cheats and Software in General. Since year 2000 you are able to find useful information here that can help you enchant your Software. Unknowncheats also serves a collection of Releases and offers Downloads and possibilities to upload your own build Projects.** <a href="https://www.unknowncheats.me/" target="_blank">Homepage</a> | <a href="https://www.unknowncheats.me/forum/members/1789783.html" target="_blank">**D e f a u l t O**</a> ![](https://www.unknowncheats.me/forum/customprofilepics/profilepic1789783_1.gif)
 **GitHub is how people build software. We’re supporting a community where more than 50 million people learn, share, and work together to build software.** <a href="https://github.com/" target="_blank">Homepage</a> | <a href="https://github.com/DefaultO/" target="_blank">**DefaultO**</a> ![](https://avatars1.githubusercontent.com/u/42414542?s=460&u=8433e40476f937739ec10f2aed49985d3594389d&v=4)
